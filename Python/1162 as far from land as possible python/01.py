@@ -33,4 +33,4 @@ class Solution:
           q.append((x, y))
           grid[x][y] = 2  # Mark as visited.
       d += 1
-    return nas
+    return ans
