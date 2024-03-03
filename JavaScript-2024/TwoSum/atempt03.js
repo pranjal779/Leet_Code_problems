@@ -1,3 +1,4 @@
+// One loop with a hashmap
 /**
  * @param {number[]} nums
  * @param {number} target
