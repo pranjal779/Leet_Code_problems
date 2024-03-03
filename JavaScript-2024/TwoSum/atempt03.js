@@ -13,3 +13,8 @@ var twoSum = function(nums, target) {
         }
     }
 };
+
+
+// Runtime: 76 ms
+// Runtime 48 ms
+// Memory 50.54 MB
