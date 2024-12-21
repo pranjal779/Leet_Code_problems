@@ -20,7 +20,11 @@ SELECT tweet_id FROM Tweets WHERE length(content) > 15;
 
 -- The result format is in the following example.
 
- 
+--  Runtime
+-- 868
+-- ms
+-- Beats
+-- 19.89%
 
 -- Example 1:
 
